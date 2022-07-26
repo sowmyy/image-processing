@@ -281,7 +281,7 @@ fig, ax = plt.subplots()
 plt.imshow(blurred)
 plt.show()
 ~~~
-{: .language-python}
+{: .language-python} 
 ![Original image](../fig/gaussian-blurred.png)
 
 > ## Experimenting with sigma values (10 min)
